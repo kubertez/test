@@ -52,6 +52,7 @@ ages = ["21", "21", "17"]
 
 for names, ages in zip(names, ages):
     print(f"{names} - {ages} tuổi")
+     print(f"{names} - {ages} tuổi")
 
 
 print("==============================================")
